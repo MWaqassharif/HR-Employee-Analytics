@@ -1,6 +1,6 @@
-#  Python Analysis
+# HR Employee Attrition Analysis using Python
 
-This folder contains the Python implementation of the HR Employee Analytics project.
+This folder contains the Python implementation of the HR Employee Attrition Analysis project, including data cleaning, exploratory data analysis (EDA), visualization, and business insights.
 
 ##  Objectives
 
