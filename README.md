@@ -16,7 +16,7 @@ This project analyzes HR employee data using Python, SQL, and Power BI to genera
 - Build an interactive Power BI dashboard
 - Generate actionable business insights
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn
 - **SQL:** MySQL, MySQL Workbench
